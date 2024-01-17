@@ -38,12 +38,12 @@ Welcome to the HR Analytics using Power BI project – where data meets people, 
 
 💡 Usage
 
-  1.Spark Your Insights:
+  1. Spark Your Insights:
        -- Open the Power BI project file (HR_Analytics.pbix).
        -- Navigate through the pages and visuals to unveil HR analytics insights.
        -- Customize the report to align with your unique HR data.
 
-  2.Fuel Your Decisions:
+  2. Fuel Your Decisions:
        -- Translate insights into actionable decisions.
        -- Enhance HR processes with data-driven strategies.
        -- Empower your team and organization to thrive.
