@@ -14,7 +14,7 @@ Welcome to the HR Analytics using Power BI project – where data meets people, 
 
 - **Performance Snapshots:** Zoom in on individual and team performance metrics. Uncover high achievers, identify areas for growth, and supercharge your teams.
 
-## 🎥 Demo
+##  Output
 
 ![image](https://github.com/tarun-369/HR-Analytics-using-Power-BI/assets/101991015/20917603-9f8c-417d-bf99-f0f868d1ab4d)
 
